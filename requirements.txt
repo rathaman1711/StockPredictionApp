@@ -1,0 +1,6 @@
+plotly==4.14.3
+streamlit==0.82.0
+pandas==1.2.4
+cufflinks==0.17.3
+yfinance==0.1.59
+fbprophet==0.7.1
