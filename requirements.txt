@@ -1,3 +1,4 @@
+python==3.7.4
 yfinance==0.1.59
 cufflinks==0.17.3
 streamlit==0.82.0
